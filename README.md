@@ -1,4 +1,4 @@
 Giovani Oliveira
-20 anos
-Ciências da Computação - 5 semestre
-Conhecimento nas linguagens - Python, C, Java, C#, MySQL, HTML, CSS
+21 anos
+Ciências da Computação - 6 semestre
+Conhecimento nas linguagens - Python, C, Java, MySQL, ADVPL, TLPP
