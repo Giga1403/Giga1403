@@ -1,4 +1,4 @@
 Giovani Oliveira
-21 anos
-Ciências da Computação - 6 semestre
+22 anos
+Bacharel em Ciência da Computação - UFMT
 Conhecimento nas linguagens - Python, C, Java, SQL, ADVPL, TLPP
